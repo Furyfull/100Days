@@ -8,7 +8,7 @@ fotos.forEach((foto)=>
     })
 )
 
-
+ 
 fechar.addEventListener("click",()=>{
     perfil.classList.toggle("ativar");
 })
